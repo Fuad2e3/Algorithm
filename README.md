@@ -66,6 +66,9 @@ java CrabGraph
 - [ ] Implement Merge Sort for comparison with Insertion Sort
 - [ ] Add Unit Tests (JUnit 5) for all modules
 
+---
+
+
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
@@ -75,5 +78,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
   <i>Algorithm | Green University of Bangladesh</i>
 </p>
 
----
-*Created and maintained for algorithmic excellence.*
