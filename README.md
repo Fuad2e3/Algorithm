@@ -1,10 +1,15 @@
-# Java Algorithm Implementations
+<div align="center">
+
+# Professional Java Algorithm Suite
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
 ![Algorithms](https://img.shields.io/badge/Algorithms-Implemented-green?style=for-the-badge)
 
-A professional collection of robust Java implementations for essential data structures and algorithms. Each module is engineered with a focus on modularity, performance analysis, and clean code principles.
+**A high-performance collection of modular Java implementations for essential data structures and algorithms.**
+
+---
+</div>
 
 ## 🚀 Key Features
 
